@@ -1,5 +1,5 @@
 # PowerPoint-Presentation-
-I have created some marketing based presentation templets in this .
+I have created some marketing based presentation templets in this "presenting about the company, their objectives, portfolios, about their new products launching, market analysis, market shares the company holds and about different products market shares".
 # Presentation link
 https://github.com/Karan7Singh/PowerPoint-Presentation-/blob/main/PowerPoint%20Presentation.pptx
 # Presentation images
